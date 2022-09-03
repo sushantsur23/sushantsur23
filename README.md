@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 💬 Ask me about anything, I am happy to help.</br>
 📫 Please email via sushant.sur23@gmail.com to reach me.</br>
 👯 I’m looking to collaborate on any interesting projects to get practical 
-📝 See my <a href="https://drive.google.com/file/d/1hIQdf7tiaNvUGvWEwB9nxNnsDLvuR3vc/view?usp=sharing">Resume</a> to get more info.</br></h6>
+📝 See my <a href="https://drive.google.com/file/d/1hMdCIMb5n2LQDppd1p1mweoXDSG3rb5z/view?usp=sharing">Resume</a> to get more info.</br></h6>
 
 
 
