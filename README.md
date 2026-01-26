@@ -17,11 +17,11 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hi 👋, I'm Sushant Sur</h1>
 <h3 align="center">I'm a Data Science Professional👨‍💻</h3>
-<h6 align="left">🏅 I am studying as well as working as Chief Manager in Shriram FInance</br>
+<h6 align="left">🏅 I am studying as well as working as Senior Chief Manager in Shriram Finance</br>
 🎓 I have completed my MBA from ISBM and MS in ML & AI from IIIT/
 Liverpool John Moores University</br>
 ⏳ I am constantly learning and keep myself updated with the latest technologies in AI.</br>
-🤔 My interests are in Data Science, Computer Vision, Robotics and AR/VR.</br>
+🤔 My interests are in Data Science, Computer Vision, Data engineering, DevSecops, Cybersecurity, Robotics and AR/VR.</br>
 💬 Ask me about anything, I am happy to help.</br>
 📫 Please email via sushant.sur23@gmail.com to reach me.</br>
 👯 I’m looking to collaborate on any interesting projects to get practical 
