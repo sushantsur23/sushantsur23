@@ -166,7 +166,7 @@ Building secure, scalable, and automated cloud platforms with DevOps + Security 
 
 <p align="left">
 <a href="https://github.com/sushantsur23">GitHub</a> •
-<a href="https://www.linkedin.com/">LinkedIn</a> •
+<a href="https://www.linkedin.com/in/sushant-sur-b1b98319/">LinkedIn</a> •
 <a href="mailto:sushant.sur23@gmail.com">Email</a>
 </p>
 
