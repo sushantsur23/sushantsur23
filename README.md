@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi 👋, I'm Sushant Sur</h1>
-<h3 align="center">I'm a Data Science Professional👨‍💻</h3>
+<h3 align="center">I'm a DevSecops Professional👨‍💻</h3>
 <h6 align="left">🏅 I am studying as well as working as Senior Chief Manager in Shriram Finance</br>
 🎓 I have completed my MBA from ISBM and MS in ML & AI from IIIT/
 Liverpool John Moores University</br>
@@ -25,7 +25,6 @@ Liverpool John Moores University</br>
 💬 Ask me about anything, I am happy to help.</br>
 📫 Please email via sushant.sur23@gmail.com to reach me.</br>
 👯 I’m looking to collaborate on any interesting projects to get practical 
-📝 See my <a href="https://drive.google.com/file/d/1hMdCIMb5n2LQDppd1p1mweoXDSG3rb5z/view?usp=sharing">Resume</a> to get more info.</br></h6>
 
 
 
